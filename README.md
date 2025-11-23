@@ -1,6 +1,6 @@
 EMI & Monthly Budget Planner
 A Python-based EMI Calculator and Monthly Budget Planner with a simple and clean GUI.
-✨ Features in this project
+ Features in this project
 - Calculate EMI for any loan
 - Compute maximum affordable EMI based on income & expenses
 - Check whether the user can afford the loan
