@@ -20,7 +20,7 @@ A Python-based EMI Calculator and Monthly Budget Planner with a simple and clean
   Max Affordable EMI:          ₹  76000              
   You Can Afford This Loan:    YES / NO
 
-   📂 Project Structure
+    Project Structure
 emi_planner
  ──emi_gui.py               
  ── emi_calculator.py        
