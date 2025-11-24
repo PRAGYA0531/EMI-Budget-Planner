@@ -38,11 +38,10 @@ emi_planner
 EMI Formula
 EMI = [P × R × (1+R)^N] / [(1+R)^N – 1]
 
-USES OF THE PROJECT
-- Good for beginners
-- Easy to explain in viva
-- Demonstrates both GUI + finance logic
-  
+   Code Details
+•The project uses Python to calculate EMI based on user inputs like emi amount, interest rate, and tenure.
+•A GUI built with Tkinter collects inputs and displays EMI results in a clean, simple interface.
+•The code is organized into separate files to keep calculations and GUI logic easy to manage and understand.
 
 
  
