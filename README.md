@@ -13,7 +13,13 @@ A Python-based EMI Calculator and Monthly Budget Planner with a simple and clean
    Monthly Expenses: ______________               
    Loan Amount:      ______________                 
    Interest (%):     ______________                 
-   Tenure (Years):   ______________                 
+   Tenure (Years):   ______________
+
+  Tools Used
+   	Python
+	   Tkinter (GUI)
+	   Basic Finance formulas
+           
                                                         
          CALCULATE
   Calculated EMI:              ₹  18871.23              
