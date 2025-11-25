@@ -17,8 +17,8 @@ A Python-based EMI Calculator and Monthly Budget Planner with a simple and clean
 
   Tools Used
    	Python
-	   Tkinter (GUI)
-	   Basic Finance formulas
+    Tkinter (GUI)
+    Basic Finance formulas
            
                                                         
          CALCULATE
@@ -49,6 +49,12 @@ EMI = [P × R × (1+R)^N] / [(1+R)^N – 1]
 •A GUI built with Tkinter collects inputs and displays EMI results in a clean, simple interface.
 •The code is organized into separate files to keep calculations and GUI logic easy to manage and understand.
 
+Instuctions For Testing 
+1. User enters monthly income and expenses
+2. User enters loan details
+3. App calculates EMI
+4. App checks if EMI ≤ affordable limit
+5. Shows result in GUI
 
  
                               
